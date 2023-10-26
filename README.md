@@ -4,7 +4,7 @@
 [Link a las diapositivas](https://github.com/lolarufino/booflix/blob/main/Google%20Dev%20Tools_%20Potenciando%20tu%20Desarrollo.pdf)
 
 ## Documentación oficial Chrome DevTools 🪄
-[Link a la documentación](https://github.com/lolarufino/booflix](https://developer.chrome.com/docs/devtools/)https://developer.chrome.com/docs/devtools/)
+[Link a la documentación](https://developer.chrome.com/docs/devtools/)
 
 ## Web de ejemplo 👩‍💻
 [Link al repositorio](https://github.com/lolarufino/booflix)
